@@ -37,3 +37,9 @@ more. We get assured safe & secure payment methods and guaranteed travel with th
 your choice. Once the bus booking payment is confirmed, all you have to do is pack your bags and get ready to travel 
 with the m-ticket, which you can show to the bus operator on your mobile before boarding the bus. Online bus ticket 
 booking with our application is that simple!
+
+********************************************
+
+To see all the featurs of this project open--> "Overview_Online_Tickit_Booking_ManagementSystem.java.project"  <--this file.
+
+********************************************
